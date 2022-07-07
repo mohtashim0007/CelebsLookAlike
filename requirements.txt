@@ -1,0 +1,14 @@
+streamlit
+python
+pandas
+numpy
+seaborn
+matplotlib
+keras
+tensorflow
+pillow
+glob
+scikit-learn
+sklearn
+os
+pickle
