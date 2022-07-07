@@ -7,4 +7,3 @@ keras
 tensorflow
 pillow
 scikit-learn
-pickle
