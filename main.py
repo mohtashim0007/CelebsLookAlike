@@ -1,7 +1,7 @@
 
 import streamlit as st
 import glob
-import cv2
+#import cv2
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
