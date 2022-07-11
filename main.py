@@ -9,7 +9,7 @@ from tqdm import tqdm
 import pickle
 import os
 from numpy.linalg import norm
-from google.colab.patches import cv2_imshow
+#from google.colab.patches import cv2_imshow
 from PIL import Image
 import sklearn 
 
