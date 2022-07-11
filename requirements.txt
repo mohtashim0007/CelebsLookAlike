@@ -4,6 +4,5 @@ numpy
 seaborn
 matplotlib
 keras
-tensorflow
 pillow
 scikit-learn
