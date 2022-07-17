@@ -5,9 +5,9 @@ import glob
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-from tqdm import tqdm
+#from tqdm import tqdm
 import pickle
-import os
+#import os
 from numpy.linalg import norm
 #from google.colab.patches import cv2_imshow
 from PIL import Image
