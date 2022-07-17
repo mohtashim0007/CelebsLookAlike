@@ -30,9 +30,9 @@ model = keras.Sequential(
 
 
 #this list contains the 2048 features for every training images
-images_list = pickle.load(open('/app/celebslookalike/images_list.pkl', 'rb'))
-name = pickle.load(open('/app/celebslookalike/name.pkl', 'rb'))
-features_list2 = pickle.load(open('/app/celebslookalike/features_list2.pkl', 'rb'))
+images_list = pickle.load(open('images_list.pkl', 'rb'))
+name = pickle.load(open('name.pkl', 'rb'))
+features_list2 = pickle.load(open('features_list2.pkl', 'rb'))
 
 
 #Nearaest Neigbors modeel building to predict our neighbors
